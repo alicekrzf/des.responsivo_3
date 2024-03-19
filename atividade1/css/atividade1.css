@@ -1,0 +1,34 @@
+#imagens {
+    text-align: center;
+}
+
+@media (max-width: 500px) {
+
+    h1 {
+        font-size: large;
+    }
+
+    h3 {
+        font-size: medium;
+    }
+
+    #img1 {
+        height: 325px;
+        width: 500px;
+    }
+
+    #imgdupla1 {
+        height: 325px;
+        width: 500px;
+    }
+
+    #imgdupla2 {
+        height: 325px;
+        width: 500px;
+    }
+
+    iframe {
+        width: 500px;
+        height: 265px;
+    }
+}
